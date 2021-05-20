@@ -1,0 +1,19 @@
+{
+  "ADS": {
+    "Interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "Interstitial_idf": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Text1": "This my firste Page",
+    "Text2": "This my seconde page",
+    "Text3": "This is 3 Page",
+    "Text4": "This is 4 page",
+    "Text5": "This is 5 page",
+    "Text6": "This is 6 page",
+    "Text7": "This is 7 page",
+    "Text8": "This is 8 page",
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "banner_idf": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Nativeads_idf": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Nativeads_id": "ca-app-pub-3940256099942544/2247696110",
+    "networkAd": "Badr"
+  }
+}
